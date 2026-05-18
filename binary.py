@@ -1,4 +1,4 @@
-    def convertToBinary(num,size):
+def convertToBinary(num,size):
     num = int(num)
     size = int(size)
     binary = bin(num)
